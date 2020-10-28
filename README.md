@@ -1,1 +1,1 @@
-# Fizzbuzz project
+# Fizzbuzz JS project
